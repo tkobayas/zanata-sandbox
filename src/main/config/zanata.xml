@@ -10,7 +10,7 @@
     <locale>pt-BR</locale>
     <locale>de</locale>
     <locale>es</locale>
-    <locale>ja</locale>
+    <locale map-from="ja_JP">ja</locale>
     <locale>fr</locale>
   </locales>
 
